@@ -31,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas7905&show_icons=true&theme=dark&title_color=00ffff&text_color=ffffff&locale=en&layout=compact" alt="vikas7905" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikas7905&show_icons=true&locale=en" alt="vikas7905" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikas7905&" alt="vikas7905" /></p>
